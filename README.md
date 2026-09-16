@@ -16,3 +16,7 @@ This repository documents my journey learning Python, GitHub, AI and automation 
 - Life Admin Brain
 - Laboratory Assistant
 - More to come...
+
+## First milestone
+
+- Repository cloned successfully to my computer 🎉
